@@ -1,0 +1,8 @@
+grocery grains waffer Drinks Noodles others @
+cosmetics others @
+house_hold_items others @
+electronics TVs Mobile Laptop others @
+men_clothing others Jeans @
+women_clothing others Jeans @
+kids_clothing others @
+toys_and_games others @
